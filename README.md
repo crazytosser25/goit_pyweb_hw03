@@ -2,6 +2,7 @@
 
 ## Task 1
 File file_gen.py is used to create file structure for tests.
+
 File file_sorter.py is sorting files into folders by extentions.
 
 
